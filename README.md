@@ -39,7 +39,7 @@
   ## How to Contribute
   You can reach out to me on the
   ## Walkthrough Video
-  [CLICK ME FOR THE WALKTHROUGH! ^-^]()
+  [CLICK ME FOR THE WALKTHROUGH! ^-^](https://drive.google.com/file/d/1JDo0XADG9XsvIS2LLdWVbpPtzIeA7cGh/view?usp=sharing)
   ## Questions
   Contact:
   * Name: Kane Esasta
