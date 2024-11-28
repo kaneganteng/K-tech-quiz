@@ -1,7 +1,7 @@
 # K Tech Quiz
   ![Github license](https://img.shields.io/badge/License-MIT-blue.svg)
   ## Description
-  This repository 
+  This application will give user 10 questions about Python. Once user start the quiz, there will be 10 multiple choice questions. After answering all ten questions, it will give user their score on how many questions they have answered correctly out of the 10 questions. It will also give user the option to take the quiz again.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,9 +12,16 @@
   * [How to Contribute](#howToContribute)
   * [Test](#test)
   ## Installation
-  This application will be available on github. In order to get access to this repository, you will need to do a git clone to your local device.
+  This application will be available on github. Copying the SSH link and do a `git clone` on the terminal will clone this repository. 
+  Once the code is opened on the local device, open a terminal and do `npm install` `npm run build` `npm run seed` and `npm run start:dev`.
   ## Usage
-  When you have cloned this repository to your local device, go to the command-line and type node index.js which will provide you with a list of questions that you will need to answer to generate the README.md file. This will be the files that you see after cloning the repository: <br> ![Screenshot of the files that will be available after cloning](./assets/image.png)
+  `npm install` <br>
+  `npm run build` <br>
+  `npm run seed`<br>
+  `npm run start:dev`<br>
+  in order to test the code first:<br>
+  `npm run test` <br> ![Screenshot of the start quiz button](./assets/startquizreactquiz.png)
+  ![Screenshot of the sample question](./assets/samplequestiontechquiz.png)
   ## Credits
   N/A
   ## License
@@ -22,12 +29,17 @@
   ## Badges
   N/A
   ## Features
-  * When you open the terminal and input "node index.js" you will be given multiple questions.
-  * Once all the questions are answered, a generated.md will be created and will have all the responses provided on the questions.
+  * React
+  * TypeScript
+  * Node.js
+  * Express.js
+  * MongoDB database
+  * Cypress
+
   ## How to Contribute
   You can reach out to me on the
-  ## Test
-  Here is the demo: https://drive.google.com/file/d/1DR4xwb_GzlFadgRC2zpzrEaHkk_D0MH2/view?usp=sharing
+  ## Walkthrough Video
+  [CLICK ME FOR THE WALKTHROUGH! ^-^]()
   ## Questions
   Contact:
   * Name: Kane Esasta
